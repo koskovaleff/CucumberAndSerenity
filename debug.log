@@ -1,0 +1,3 @@
+[0222/013342.385:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
+[0222/013342.415:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::RTL_USER_PROCESS_PARAMETERS<crashpad::process_types::internal::Traits64>]: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0222/013342.415:ERROR:process_info.cc(551)] ReadProcessData failed
